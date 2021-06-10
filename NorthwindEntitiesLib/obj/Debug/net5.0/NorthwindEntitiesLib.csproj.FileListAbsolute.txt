@@ -1,0 +1,15 @@
+C:\Code\c#\c#9&.net5\Code\PracticalApps\NorthwindEntitiesLib\bin\Debug\net5.0\NorthwindEntitiesLib.deps.json
+C:\Code\c#\c#9&.net5\Code\PracticalApps\NorthwindEntitiesLib\bin\Debug\net5.0\NorthwindEntitiesLib.runtimeconfig.json
+C:\Code\c#\c#9&.net5\Code\PracticalApps\NorthwindEntitiesLib\bin\Debug\net5.0\NorthwindEntitiesLib.runtimeconfig.dev.json
+C:\Code\c#\c#9&.net5\Code\PracticalApps\NorthwindEntitiesLib\bin\Debug\net5.0\NorthwindEntitiesLib.dll
+C:\Code\c#\c#9&.net5\Code\PracticalApps\NorthwindEntitiesLib\bin\Debug\net5.0\ref\NorthwindEntitiesLib.dll
+C:\Code\c#\c#9&.net5\Code\PracticalApps\NorthwindEntitiesLib\bin\Debug\net5.0\NorthwindEntitiesLib.pdb
+C:\Code\c#\c#9&.net5\Code\PracticalApps\NorthwindEntitiesLib\obj\Debug\net5.0\NorthwindEntitiesLib.csprojAssemblyReference.cache
+C:\Code\c#\c#9&.net5\Code\PracticalApps\NorthwindEntitiesLib\obj\Debug\net5.0\NorthwindEntitiesLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\c#\c#9&.net5\Code\PracticalApps\NorthwindEntitiesLib\obj\Debug\net5.0\NorthwindEntitiesLib.AssemblyInfoInputs.cache
+C:\Code\c#\c#9&.net5\Code\PracticalApps\NorthwindEntitiesLib\obj\Debug\net5.0\NorthwindEntitiesLib.AssemblyInfo.cs
+C:\Code\c#\c#9&.net5\Code\PracticalApps\NorthwindEntitiesLib\obj\Debug\net5.0\NorthwindEntitiesLib.csproj.CoreCompileInputs.cache
+C:\Code\c#\c#9&.net5\Code\PracticalApps\NorthwindEntitiesLib\obj\Debug\net5.0\NorthwindEntitiesLib.dll
+C:\Code\c#\c#9&.net5\Code\PracticalApps\NorthwindEntitiesLib\obj\Debug\net5.0\ref\NorthwindEntitiesLib.dll
+C:\Code\c#\c#9&.net5\Code\PracticalApps\NorthwindEntitiesLib\obj\Debug\net5.0\NorthwindEntitiesLib.pdb
+C:\Code\c#\c#9&.net5\Code\PracticalApps\NorthwindEntitiesLib\obj\Debug\net5.0\NorthwindEntitiesLib.genruntimeconfig.cache

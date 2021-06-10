@@ -1,0 +1,136 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Code\\c#\\c#9&.net5\\Code\\PracticalApps\\NorthwindContextLib\\NorthwindContextLib.csproj": {}
+  },
+  "projects": {
+    "C:\\Code\\c#\\c#9&.net5\\Code\\PracticalApps\\NorthwindContextLib\\NorthwindContextLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Code\\c#\\c#9&.net5\\Code\\PracticalApps\\NorthwindContextLib\\NorthwindContextLib.csproj",
+        "projectName": "NorthwindContextLib",
+        "projectPath": "C:\\Code\\c#\\c#9&.net5\\Code\\PracticalApps\\NorthwindContextLib\\NorthwindContextLib.csproj",
+        "packagesPath": "C:\\Users\\GinoZacc\\.nuget\\packages\\",
+        "outputPath": "C:\\Code\\c#\\c#9&.net5\\Code\\PracticalApps\\NorthwindContextLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\GinoZacc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Code\\c#\\c#9&.net5\\Code\\PracticalApps\\NorthwindEntitiesLib\\NorthwindEntitiesLib.csproj": {
+                "projectPath": "C:\\Code\\c#\\c#9&.net5\\Code\\PracticalApps\\NorthwindEntitiesLib\\NorthwindEntitiesLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Code\\c#\\c#9&.net5\\Code\\PracticalApps\\NorthwindEntitiesLib\\NorthwindEntitiesLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Code\\c#\\c#9&.net5\\Code\\PracticalApps\\NorthwindEntitiesLib\\NorthwindEntitiesLib.csproj",
+        "projectName": "NorthwindEntitiesLib",
+        "projectPath": "C:\\Code\\c#\\c#9&.net5\\Code\\PracticalApps\\NorthwindEntitiesLib\\NorthwindEntitiesLib.csproj",
+        "packagesPath": "C:\\Users\\GinoZacc\\.nuget\\packages\\",
+        "outputPath": "C:\\Code\\c#\\c#9&.net5\\Code\\PracticalApps\\NorthwindEntitiesLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\GinoZacc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
